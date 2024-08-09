@@ -1,10 +1,10 @@
-# TasksandNews Service
+# TasksAndNews Service
 
-This is the backend service for the TasksandNews application, a simple REST API built with Spring Boot that allows users to manage their tasks.
+This is the backend service for the TasksAndNews application, a simple REST API built with Spring Boot that allows users to manage their tasks.
 
 The API stores and retrieves data from a database using PostgreSQL and has been containerized using Docker for easy deployment and management. The project includes tests for the API endpoints using JUnit and MockMvc.
 
-The frontend for the Tasksandnews application can be found in this repository: [TasksAndNews WebApp](https://github.com/helenafnandes/tasksandnews-frontend)
+The frontend for the application can be found in this repository: [TasksAndNews WebApp](https://github.com/helenafnandes/tasksandnews-frontend)
 
 ## API Documentation
 
